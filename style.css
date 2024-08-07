@@ -1,0 +1,510 @@
+
+
+.box{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+position: absolute;    
+top: 9px;
+}
+.box1{
+    height: 150px;
+    width: 150px;
+    background-color:white;
+    position: absolute;
+
+
+
+}
+.box2{
+    height: 150px;
+    width: 150px;
+    background-color: black;
+    position: absolute;
+    top:160px ;
+}
+.box3{
+    height: 150px;
+    width: 150px;
+    background-color:black;
+    position: absolute;
+    top:460px ;
+}
+    .box4{
+        height: 150px;
+        width: 150px;
+        background-color: white;
+    }
+    .box5{
+        height: 150px;
+        width: 150px;
+        background-color:black;
+        position: absolute;
+        top: 760px;
+    }
+         .box6{
+            height: 150px;
+            width: 150px;
+            background-color: white;
+        }
+        .box7{
+            height: 150px;
+            width: 150px;
+            background-color:black;
+            position: absolute;
+            top:1060px ;
+         }
+        
+        .box8{
+            height: 150px;
+            width: 150px;
+            background-color: black;
+            margin-left: 150px;
+            position: absolute;
+            top: 9px;
+        }
+        .box9{
+            height: 150px;
+            width: 150px;
+            background-color: white;
+            margin-left: 150px;
+        position: absolute;
+        top: 160px;
+        }
+        .box10{
+            height: 150px;
+            width: 150px;
+            background-color: black;
+             margin-left: 150px;
+             position: absolute;
+             top: 310px;
+        }
+        .box1{
+            height: 150px;
+            width: 150px;
+            background-color: white;
+            margin-left: 150px;
+            position: absolute;
+            top:460px ;
+        }
+
+        .box12{
+            height: 150px;
+            width: 150px;
+            background-color: black;
+            margin-left: 150px;
+            position: absolute;
+            top: 610px;
+        }
+        .box13{
+            height: 150px;
+            width: 150px;
+            background-color: white;
+            margin-left: 150px;
+            position: absolute;
+            top: 760px;
+        }
+        .box14{
+            height: 150px;
+            width: 150px;
+            background-color: black;
+            margin-left: 150px;
+            position: absolute;
+            top:910px ;
+        }
+        .box15{
+            height: 150px;
+            width: 150px;
+            background-color:white;
+            margin-left: 150px;
+            position: absolute;
+            top:1060px ;
+        }
+        .box16{
+            height: 150px;
+            width: 150px;
+            background-color:white;
+            margin-left: 300px;
+            position: absolute;
+            top: 9px;
+        }
+
+        .box17{
+            height: 150px;
+            width: 150px;
+            background-color:black;
+            margin-left:300px ;
+            position: absolute;
+            top:160px ;
+        }.box18{
+            height: 150px;
+            width: 150px;
+            background-color:white;
+            margin-left:300px ;
+            position: absolute;
+            top: 310px; ;
+        }
+        .box19{
+            height: 150px;
+            width: 150px;
+            background-color: black;
+            margin-left: 300px;
+            position: absolute;
+            top: 460px ;
+        }
+        .box20{
+            height: 150px;
+            width: 150px;
+            background-color: white;
+            margin-left: 300px;
+            position: absolute;
+            top:610px;
+        }
+        .box21{
+            height: 150px;
+            width: 150px;
+            background-color: black;
+            margin-left: 300px;
+            position: absolute;
+            top: 760px ;
+        }
+        
+        .box22{
+            height: 150px;
+            width: 150px;
+            background-color:white;
+            margin-left:300px ;
+            position: absolute;
+            top:910px ;
+        }.box23{
+            height: 150px;
+            width: 150px;
+            background-color: black;
+            margin-left:300px ;
+            position: absolute;
+            top: 1060px;
+        }
+        .box24{
+            height: 150px;
+            width: 150px;
+            background-color: black;
+            margin-left:450px ;
+            position: absolute;
+            top:9px ;
+        }
+        .box25{
+            height: 150px;
+            width: 150px;
+            background-color: white;
+            margin-left:450px ;
+            position: absolute;
+            top:160px ;
+        }
+        .box26{
+            height: 150px;
+            width: 150px;
+            background-color: black;
+            margin-left: 450px;
+            position: absolute;
+            top:310px ;
+        }
+        .box27{
+            height: 150px;
+            width: 150px;
+            background-color: white;
+            margin-left:450px ;
+            position: absolute;
+            top:460px ;
+        }
+        .box28{
+            height: 150px;
+            width: 150px;
+            background-color:black;
+            margin-left:450px ;
+            position: absolute;
+            top: 610px;
+        }
+        .box29{
+            height: 150px;
+            width: 150px;
+            background-color: white;
+            margin-left:450px ;
+            position: absolute;
+            top: 760px;
+        }
+        .box30{
+            height: 150px;
+            width: 150px;
+            background-color: black;
+            margin-left:450px ;
+            position: absolute;
+            top:910px ;
+        }
+        .box31{
+            height: 150px;
+            width: 150px;
+            background-color: white;
+            margin-left:450px ;
+            position: absolute;
+            top:1060px ;
+        }
+        .box32{
+            height: 150px;
+            width: 150px;
+            background-color: white;
+            margin-left: 600px;
+            position: absolute;
+            top:9px ;
+        }
+        .box33{
+            height: 150px;
+            width: 150px;
+            background-color: black;
+            margin-left: 600px;
+            position: absolute;
+            top:160px ;
+        }
+        .box34{
+            height: 150px;
+            width: 150px;
+            background-color: white;
+            margin-left:600px ;
+            position: absolute;
+            top:310px ;
+        }
+        .box35{
+            height: 150px;
+            width: 150px;
+            background-color: black;
+            margin-left:600px ;
+            position: absolute;
+            top:460px ;
+        }
+        .box36{
+            height: 150px;
+            width: 150px;
+            background-color: white;
+            margin-left:600px ;
+            position: absolute;
+            top:610px ;
+        }
+        .box37{
+            height: 150px;
+            width: 150px;
+            background-color:black;
+            margin-left:600px ;
+            position: absolute;
+            top:760px ;
+        }
+        .box38{
+            height: 150px;
+            width: 150px;
+            background-color: white;
+            margin-left:600px ;
+            position: absolute;
+            top:910px ;
+        }
+        .box39{
+            height: 150px;
+            width: 150px;
+            background-color: black;
+            margin-left:600px ;
+            position: absolute;
+            top:1060px ;
+        }
+
+        .box40{
+            height: 150px;
+            width: 150px;
+            background-color: black;
+            margin-left:750px ;
+            position: absolute;
+            top:9px ;
+        }
+        .box41{
+            height: 150px;
+            width: 150px;
+            background-color: white;
+            margin-left:750px ;
+            position: absolute;
+            top:160px ;
+        }
+        .box42{
+            height: 150px;
+            width: 150px;
+            background-color:black;
+            margin-left:750px ;
+            position: absolute;
+            top:310px ;
+        }
+        .box43{
+            height: 150px;
+            width: 150px;
+            background-color:white;
+            margin-left:750px ;
+            position: absolute;
+            top:460px ;
+        }
+        .box44{
+            height: 150px;
+            width: 150px;
+            background-color:black;
+            margin-left:750px ;
+            position: absolute;
+            top:610px ;
+        }
+        .box45{
+            height: 150px;
+            width: 150px;
+            background-color:white;
+            margin-left:750px ;
+            position: absolute;
+            top:760px;
+        }
+        .box46{
+            height: 150px;
+            width: 150px;
+            background-color:black;
+            margin-left:750px ;
+            position: absolute;
+            top:910px;
+        }
+        .box47{
+            height: 150px;
+            width: 150px;
+            background-color:white;
+            margin-left:750px ;
+            position: absolute;
+            top:1060px ;
+        }
+        .box48{
+            height: 150px;
+            width: 150px;
+            background-color:white;
+            margin-left:900px ;
+            position: absolute;
+            top:9px ;
+        }
+        .box49{
+            height: 150px;
+            width: 150px;
+            background-color:black;
+            margin-left:900px ;
+            position: absolute;
+            top:160px;
+
+        }
+        .box50{
+            height: 150px;
+            width: 150px;
+            background-color:white;
+            margin-left:900px;
+            position: absolute;
+            top:310px ;
+        }
+        .box51{
+            height: 150px;
+            width: 150px;
+            background-color:black;
+            margin-left:900px ;
+            position: absolute;
+            top:460px ;
+        }
+        .box52{
+            height: 150px;
+            width: 150px;
+            background-color:white;
+            margin-left:900px ;
+            position: absolute;
+            top:610px ;
+        }
+        .box53{
+            height: 150px;
+            width: 150px;
+            background-color:black;
+            margin-left:900px ;
+            position: absolute;
+            top:760px ;
+        }
+        .box54{
+            height: 150px;
+            width: 150px;
+            background-color:white;
+            margin-left:900px;
+            position: absolute;
+            top: 910px ;
+        } 
+        .box55{
+            height: 150px;
+            width: 150px;
+            background-color:black;
+            margin-left:900px ;
+            position: absolute;
+            top: 1060px ;
+        } 
+        .box56{
+            height: 150px;
+            width: 150px;
+            background-color: black;
+            margin-left: 1050px;
+            position: absolute;
+            top: 9px;
+        }
+        .box57{
+            height: 150px;
+            width: 150px;
+            background-color:white;
+            margin-left: 1050px;
+            position: absolute;
+            top: 160px;
+        }
+        .box58{
+            height: 150px;
+            width: 150px;
+            background-color: black;
+            margin-left: 1050px;
+            position: absolute;
+            top: 310px;
+        }
+        .box59{
+            height: 150px;
+            width: 150px;
+            background-color: white;
+            margin-left: 1050px;
+            position: absolute;
+            top: 460px;
+        }
+        .box60{
+            height: 150px;
+            width: 150px;
+            background-color: black;
+            margin-left: 1050px;
+            position: absolute;
+            top: 610px;
+        }
+        .box61{
+            height: 150px;
+            width: 150px;
+            background-color:white;
+            margin-left: 1050px;
+            position: absolute;
+            top: 760px;
+        }
+        .box62{
+            height: 150px;
+            width: 150px;
+            background-color: black;
+            margin-left: 1050px;
+            position: absolute;
+            top:910px ;
+        }
+          
+            .box63{
+                height: 150px;
+                width: 150px;
+                background-color:white;
+                margin-left: 1050px;
+             position: absolute;
+            top: 1060px;
+        }
+        
